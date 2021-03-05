@@ -1,0 +1,13 @@
+html {
+    font-size: 14px;
+}
+#function-img {
+    height: 30px;
+    margin-top: 15px;
+}
+#function-text li {
+    margin-right: 9px;
+}
+footer{ 
+    line-height:20px;
+}
